@@ -13,7 +13,8 @@ export default function Body() {
         { id: 6, name: "Fries", type: "Appetizers", description: "All fries are cooked in Non GMO Sunflower oil. Depending on the day, your fries will be cut regular, homestyle, curly, po-ball, or shoestring. Our fries are served au natural and therefore do not keep their heat, or crispness as long as the typical fry. For best quality, please arrive as close as possible to your pick up time. ", imagePath: "images/appetizer/fries.jpg" },
         { id: 7, name: "BFC Original", type: "Burgers", description: "Spring mix, house-made garlic aioli, red onion gastrique, tomato.", imagePath: "images/burger/bfc_original.jpg" },
         { id: 8, name: "Classic", type: "Burgers", description: "Crisp lettuce, tomato, red onion, house-made pickles and smoked special sauce.", imagePath: "images/burger/classic.jpg" },
-        { id: 9, name: "The BBQ", type: "Burgers", description: "Blue cheese coleslaw, house made chips, barbecue sauce.", imagePath: "images/burger/the_bbq.jpg" }
+        { id: 9, name: "The BBQ", type: "Burgers", description: "Blue cheese coleslaw, house made chips, barbecue sauce.", imagePath: "images/burger/the_bbq.jpg" },
+        { id: 10, name: "Avocado Chicken Burgers", type: "Burgers", description: "Chicken burgers can be so bland and boring. Not these! Made with ground chicken (mince), parmesan, garlic and a hint of dried sage, you’ll love how these chicken burger patties are juicy on the inside with crispy golden edges.", imagePath: "images/burger/Avocado_Chicken_Burgers.jpg" }
     ];
 
     return (
